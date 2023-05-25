@@ -11,8 +11,10 @@
 - Manager: Tristan Hayes
 - Mentors: Feng Liu-Smith, Hyo-Young Choi, Chi-Yang Chiu, Gregory Farage, Qi Zhao, Saunak Sen
 - Interns:
-**[Schedule for 2023 Joint Summer Research Scholars (SRS) & BSURE
-Programs]{.underline}^\*^**
+
+---
+
+### Schedule for 2023 Joint Summer Research Scholars (SRS) & BSURE Programs]
 
 June 2 Orientation for BSURE in Fort Collins (Goldin, Hein, Soenksen)
 
