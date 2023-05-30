@@ -6,8 +6,8 @@
 | :------------- | :-------- | :---------------------------------- | :----
 |Jun 02 |  1   | Orientation for BSURE in Fort Collins (Goldin, Hein, Soenksen)          |
 |Jun 05 |  1   | Orientation for SRS in Memphis 9AM CST         |
-|Jun 06 |  1   | Students meet mentors and begin research          |
-|Jun 09 |  1   | Research comprehension and communication skills (McKay)   11AM MTN/12PM CST       |
+|Jun 06 |      | Students meet mentors and begin research          |
+|Jun 09 |      | Research comprehension and communication skills (McKay)   11AM MTN/12PM CST       |
 |Jun 12 |  1   | SRS All Intern Meeting 9AM CST         |
 |Jun 16 |  1   | Developing an identity as a researcher (Hein)   11AM MTN/12PM CST          |
 |Jun 19 |  1   | SRS All Intern Meeting 9AM CST         |
