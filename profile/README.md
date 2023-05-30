@@ -4,7 +4,25 @@
 ## Schedule
 | Date           | Week  | Topic                                   | Due
 | :------------- | :-------- | :---------------------------------- | :----
-|Jun 05 |  1   | Intro meeting          |
+|Jun 02 |  1   | Orientation for BSURE in Fort Collins (Goldin, Hein, Soenksen)          |
+|Jun 05 |  1   | Orientation for SRS in Memphis          |
+|Jun 06 |  1   | Students meet mentors and begin research          |
+|Jun 09 |  1   | Research comprehension and communication skills (McKay)          |
+|Jun 16 |  1   | Developing an identity as a researcher (Hein)          |
+|Jun 19 |  1   | Writing Scientific Abstract Workshop (TBA)          |
+|Jun 23 |  1   | Developing confidence and independence as a researcher (Soenksen)          |
+|Jun 26 |  1   | Journal Club (TBA)          |
+|Jun 30 |  1   | Develop Skills to Deal with Personal Differences in the Research Environment (Goldin)          |
+|Jul 04 |  1   | Holiday          |
+|Jul 07 |  1   | Exploring career options outside academia 1 (Guest speakers, Ian Pearce, USGS)          |
+|Jul 10 |  1   | Meet the Program Directors          |
+|Jul 14 |  1   | The process of applying to and choosing a grad program (Hein, Keenan, Soenksen, others..)          |
+|Jul 17 |  1   | Journal Club (TBA)          |
+|Jul 21 |  1   | Career options outside academia 2 (Guest speakers, TBD)          |
+|Jul 24 |  1   | Tips on Podium Presentation Workshop          |
+|Jul 24 |  1   | **ABSTRACTS DUE.** Submit as word document via email to: Ms. Shanta Haynes (<shampto4@uthsc.edu>) and Dr. Isaac Donkor (<idonkor@uthsc.edu>)          |
+|Jul 28 |  1   | Closing Ceremony - Final Presentations          |
+|Aug 04 |  1   | BSURE students give short talks on their research and career plans          |
 
 ## People
 - Director: Saunak Sen
