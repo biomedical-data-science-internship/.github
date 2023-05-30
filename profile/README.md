@@ -5,7 +5,7 @@
 | Date           | Week  | Topic                                   | Due
 | :------------- | :-------- | :---------------------------------- | :----
 |Jun 02 |  1   | Orientation for BSURE in Fort Collins (Goldin, Hein, Soenksen)          |
-|Jun 05 |  1   | Orientation for SRS in Memphis 9AM CST         |
+|Jun 05 |  1   | Orientation for SRS in Memphis 9AM CST<br> Meet mentors         |
 |Jun 06 |      | Students meet mentors and begin research          |
 |Jun 09 |      | Research comprehension and communication skills (McKay)   11AM MTN/12PM CST       |
 |Jun 12 |  1   | SRS All Intern Meeting 9AM CST         |
