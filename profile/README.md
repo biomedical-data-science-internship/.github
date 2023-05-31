@@ -30,8 +30,8 @@ time; it will be updated periodically.
 
 ## People
 
-- Director: Saunak Sen
-- Manager: Tristan Hayes
-- Mentors: Feng Liu-Smith, Hyo-Young Choi, Chi-Yang Chiu, Gregory Farage, Qi Zhao, Saunak Sen
 - Interns: Harper Kolehmainen, Galvin Li, Siling Liu, Miyeon Yeon
+- Mentors: Feng Liu-Smith, Hyo-Young Choi, Chi-Yang Chiu, Gregory Farage, Qi Zhao, Saunak Sen
+- Manager: Tristan Hayes
+- Director: Saunak Sen
 
