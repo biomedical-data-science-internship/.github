@@ -18,7 +18,7 @@ time; it will be updated periodically.
 | :------------- | :------------- | :---------------------------------- |
 |1 | June 05 <br> June 09  | Orientation 9AM<br> Research comprehension and communication skills 12PM  |
 |2 | June 12 <br> June 16 | All Intern Meeting 9AM<br> Developing an identity as a researcher 12PM |
-|3 | June 19 <br> June 23 | All Intern Meeting 9AM CST <br> Developing confidence and independence as a researcher 12PM |
+|3 | June 19 <br> June 20 <br> June 23 | Holiday <br> All Intern Meeting 9AM CST <br> Developing confidence and independence as a researcher 12PM |
 |4 | June 26 <br> June 30 | All Intern Meeting 9AM <br> Develop Skills to Deal with Personal Differences in the Research Environment 12PM |
 |5 | July 03 <br> July 04 <br> July 07 | All Intern Meeting 9AM <br> Holiday <br> Exploring career options outside academia 1 (Guest speakers, Ian Pearce, USGS) 12PM |
 |6 | July 10 <br> July 14 | All Intern Meeting 9AM <br> The process of applying to and choosing a grad program 12PM |
