@@ -22,13 +22,13 @@ time; it will be updated periodically.
 |4 | June 26 <br> June 30 | All Intern Meeting 9AM <br> Develop Skills to Deal with Personal Differences in the Research Environment 12PM |
 |5 | July 03 <br> July 04 <br> July 07 | All Intern Meeting 9AM <br> Holiday <br> Exploring career options outside academia 1  12PM |
 |6 | July 10 <br> July 14 | All Intern Meeting 9AM <br> The process of applying to and choosing a grad program 12PM |
-|7 | July 17 <br> July 21 | All Intern Meeting 9AM <br> Career options outside academia 2  12PM |
+|7 | July 17 <br> July 21 <br> ~ | All Intern Meeting 9AM <br> Career options outside academia 2  12PM <br> (Facilitator: Saunak Sen; Guest speakers: Kevin Dorn, USDA ARS; Sohela Shah, UCSF)
+|
 |8 | July 24 <br> July 28 | All Intern Meeting 9AM <br> Presentations 12PM |
 |9 | July 31 | All Intern Meeting 9AM |
 |10 | Aug 06 | All Intern Meeting 9AM |
 
 (Facilitator: John McKay; Guest speakers: Kristin Gray, Cargill Crop Innovation; Randy Clark, Corteva Agrisciences)
-(Facilitator: Saunak Sen; Guest speakers: Kevin Dorn, USDA ARS; Sohela Shah, UCSF)
 
 ## People
 
