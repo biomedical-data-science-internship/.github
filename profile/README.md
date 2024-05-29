@@ -1,10 +1,10 @@
-# UTHSC Biostatistics Internship 2023
+# UTHSC Biostatistics Internship 2024
 
 ## Schedule
 
 The table below gives the rough schedule of activities for the 10-week
 internship.  All interns and their mentors meet on Mondays at 9am in
-the 3rd floor conference room.  On Fridays at lunchtime, we have a
+the 3rd floor conference room.  On Wednesdays, we have a
 one-hour mentoring meeting with the [Summer Research Scholars
 (SRS)](https://www.uthsc.edu/summer-research-scholars/index.php)
 program at UTHSC, and the [BSURE](https://csubsure.wordpress.com/)
