@@ -30,9 +30,9 @@ time; it will be updated periodically.
 
 ## People
 
-- Interns: Harper Kolehmainen, Galvin Li, Siling Liu, Miyeon Yeon
-- Mentors: Feng Liu-Smith, Hyo-Young Choi, Chi-Yang Chiu, Gregory Farage, Qi Zhao, Saunak Sen
+- Interns: Yinan Chen, Shanthi Sree Edara, Durbadal Ghosh
+- Mentors: Lauren Bell, Zhu Wang, Kimberly Kelly, Chi-Yang Chiu, Gregory Farage, Saunak Sen
 - Manager: Tristan Hayes
-- Associate Director: Chi-Yang Chiu
+- Associate Director: Gregory Farage, Chi-Yang Chiu
 - Director: Saunak Sen
 
