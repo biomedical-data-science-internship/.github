@@ -16,8 +16,8 @@ time; it will be updated periodically.
 
 | Week           | Date           | Topic                               |
 | :------------- | :------------- | :---------------------------------- |
-|1 | June 05 <br> June 09  | Orientation 9AM<br> Research comprehension and communication skills 12PM  |
-|2 | June 12 <br> June 16 | All Intern Meeting 9AM<br> Developing an identity as a researcher 12PM |
+|1 | June 03 <br> June 05<br><br><br><br>  | Orientation 9AM<br> First joint meeting - Intro to BSURE, agenda, expectations, individual<br> introductions 20 min (McKay and Farage)<br> Developing an identity as a researcher 30 min (Hein)<br> Time/Location for SRS participants: 11:00 AM – 12:00 PM (CST) in GEB A304   |
+|2 | June 12 <br><br><br><br><br><br><br><br> | Developing confidence and independence as a researcher 20 min (Soenksen)<br>Short intro on making a CV or resume 10 min (Anna)<br> Deadline to submit the CV Tuesday, June 18 (submit to OneDrive, assign 2 reviewers per resume)<br> Faculty provides their CV to OneDrive<br> CV and resume, each intern critique 2 resumes.<br> Each CV gets feedback from 1 faculty and 2 interns.<br>Deadline to submit the CV reviews Tuesday, June 25 (submit to OneDrive)<br> Time/Location for SRS participants: 11:00 AM – 12:00 PM (CST) in GEB A304  |
 |3 | June 19 <br> June 20 <br> June 20 <br> June 23 | Holiday -- Juneteenth <br> All Intern Meeting 9AM CST <br> Writing a scientific abstract 12pm <br> Developing confidence and independence as a researcher 12PM |
 |4 | June 26 <br> June 26 <br> June 30 | All Intern Meeting 9AM <br> Mixer -- Get acquanted over lunch <br> Develop Skills to Deal with Personal Differences in the Research Environment 12PM |
 |5 | July 03 <br> July 04 <br> July 07 <br> ~ <br> ~ | All Intern Meeting 9AM <br> Holiday -- Independence Day <br> Exploring career options outside academia 1  12PM <br> (Facilitator: John McKay; <br> Guest speakers: Kristin Gray, Cargill Crop Innovation; Randy Clark, Corteva Agrisciences) |
