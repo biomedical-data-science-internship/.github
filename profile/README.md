@@ -36,3 +36,7 @@ time; it will be updated periodically.
 - Associate Director: Gregory Farage, Chi-Yang Chiu
 - Director: Saunak Sen
 
+## Weekly Meeting Zoom link 
+
+https://tennesseehipaa.zoom.us/j/87421554992
+
