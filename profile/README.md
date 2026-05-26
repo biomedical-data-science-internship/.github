@@ -27,7 +27,7 @@ The table below lists the initial schedule of events planned at this time; it wi
 ## People
 
 - Interns: Abhisek Banerjee, Jovan Radovic, Sohan Shankar, Yue Zhan
-- Mentors: Harsh Dubey, Gregory Farage, Yuru Huang, Saunak Sen, Fridtjof Thomas, Qi Zao, Yuan Zhang
+- Mentors: Harsh Dubey, Gregory Farage, Yuru Huang, Saunak Sen, Fridtjof Thomas, Yuan Zhang
 - Manager: Tristan Hayes
 - Associate Director: Gregory Farage
 - Director: Saunak Sen
