@@ -2,7 +2,7 @@
 
 ## Schedule
 
-The table below gives the rough schedule of activities for the 10-week internship. All BDSI interns and mentors meet on Mondays at 10:00 AM in conference room 306. On Wednesdays, we have a one-hour mentoring meeting with the [Summer Research Scholars (SRS)](https://www.uthsc.edu/summer-research-scholars/index.php) program at UTHSC and the [BSURE](https://csubsure.wordpress.com/) program at Colorado State.
+The table below gives the rough schedule of activities for the 10-week internship. All BDSI interns and mentors meet on Mondays at 10:00 AM in conference room 306. On Wednesdays, we have a one-hour mentoring meeting with the [Summer Research Scholars (SRS)](https://www.uthsc.edu/summer-research-scholars/index.php) program at UTHSC.
 
 The table below lists the initial schedule of events planned at this time; it will be updated periodically.
 
