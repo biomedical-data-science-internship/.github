@@ -19,10 +19,6 @@ The table below lists the initial schedule of events planned at this time; it wi
 | 9 | July 27 <br> ~ | Weekly meeting for BDSI participants <br> Time/Location: 10:00 AM – 11:00 AM (CST) in conference room 306 |
 | 10 | August 3 | Weekly meeting for BDSI participants <br> Time/Location: 10:00 AM – 11:00 AM (CST) in conference room 306 |
 
-## Notes
-
-- SRS participants are not required to attend events marked as SRS participants only.
-- The original schedule listed BDSI Monday meetings as ending at 11:00 PM. This version uses 11:00 AM, assuming that was a typo.
 
 ## People
 
